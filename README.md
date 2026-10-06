@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**joshika-02/joshika-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there, I'm JOSHIKA. J
+First year IT student| St. josephs college of engineering, Chennai
+Aspiring software developer
+about me: 
+-currently learning C, python
+-interested in software development and problem solving
+ask me about: C programming, python basis
+fun fact: I love turning ideas into real projects
+connect with me
+-GitHub:github.com/joshika-02
+always open to collaborate
